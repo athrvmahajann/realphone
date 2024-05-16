@@ -24,3 +24,13 @@ The website is designed to display information about a mobile phone product, inc
 To run this website locally, follow these steps:
 
 1. Clone this repository to your local machine:
+2. Open the index.html file in a web browser.
+
+## Usage
+
+- Navigate through the website using the links in the navigation bar.
+- Click on the arrow buttons to rotate through the features of the phone.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
